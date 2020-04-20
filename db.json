@@ -4,6 +4,13 @@
     "id":1,
     "nombre":"Jhon",
     "apellido": "Rivera"
+    },
+    {
+    "id":2,
+    "nombre":"Juan",
+    "apellido": "Peres"
     }
     ]
-} 
+}
+    
+      
