@@ -1,15 +1,49 @@
 {
-  "persona":[
+  "autos":[
     {
     "id":1,
-    "nombre":"Jhon",
-    "apellido": "Rivera"
+    "marca":"Chevrolet",
+    "modelo": 2018,
+    "propietario":"Jhon Rivera",
+    "direccion": "Cra3F#50B-69"
     },
     {
     "id":2,
-    "nombre":"Juan",
-    "apellido": "Peres"
+    "marca":"Mazda",
+    "modelo": 2007,
+    "propietario":"Lisandro Meza",
+    "direccion": "Cra4#50C-67"
+    },
+    {
+    "id":3,
+    "marca":"Audi",
+    "modelo": 2020,
+    "propietario":"Henry Guzaman",
+    "direccion": "Cra99#34-C"
+    },
+    {
+    "id":4,
+    "marca":"Ford",
+    "modelo": 2010,
+    "propietario":"Juan Perez",
+    "direccion": "Carrera 43 # 47 – 53."
+    },
+    {
+    "id":5,
+    "marca":"Kia",
+    "modelo": 2019,
+    "propietario":"Gabriela Ruiz",
+    "direccion": "Carrera 36 Calle 87 Esquina"
+    },
+    {
+    "id":6,
+    "marca":"Ford",
+    "modelo": 2003,
+    "propietario":"Hansel Raul",
+    "direccion": "Calle 56 # 31-16"
     }
+   
+   
     ]
 }
     
