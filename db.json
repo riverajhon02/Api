@@ -1,1 +1,23 @@
-
+{
+  "persona":[
+      {
+        "id": 1,
+        "nombre": "Jhon",
+        "apellido": "Rivera",
+        "edad": 20
+      },
+      {
+        "id": 2,
+        "nombre": "Juan",
+        "apellido": "Santiago",
+        "edad": 23
+      },
+    
+      {
+        "id": 3,
+        "nombre": "Felipe",
+        "apellido": "Rosero",
+        "edad": 20
+      }
+    
+    ]
